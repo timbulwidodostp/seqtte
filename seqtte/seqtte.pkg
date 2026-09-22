@@ -1,0 +1,4 @@
+D 'seqtte': Sequential target trial emulation Use seqtte With STATA 19
+D
+F seqtte.ado
+F seqtte.sthlp
