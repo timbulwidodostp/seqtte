@@ -1,6 +1,8 @@
 # seqtte
 Sequential target trial emulation Use seqtte With STATA 19
 
+https://www.youtube.com/watch?v=nXMPL6-Nwg0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
